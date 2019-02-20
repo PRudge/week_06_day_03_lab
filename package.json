@@ -1,7 +1,6 @@
 {
   "name": "lab_enumeration_callbacks_films_end",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha specs"
@@ -10,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.1.1"
-  }
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woodlehh/week_06_day_03_lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Woodlehh/week_06_day_03_lab/issues"
+  },
+  "homepage": "https://github.com/Woodlehh/week_06_day_03_lab#readme",
+  "description": ""
 }
